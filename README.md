@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elmetador20" alt="elmetador20" /></a> </p>
 
-- 🌱 I’m currently learning **solana**
-
 - 👨‍💻 How to reach me **ahmedsharique250@gmail.com**
 
 - ⚡ Fun fact **I’m a frontend developer by day, code challenge enthusiast by night! 😄**
