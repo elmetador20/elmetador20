@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sharique Ahmad</h1>
-<h3 align="center">A passionate Frontend Developer from India, skilled in HTML, CSS, JavaScript, and frameworks like React and Angular. I focus on creating seamless, user-centric web experiences while constantly exploring new technologies to deliver high-quality, responsive solutions.</h3>
+<h3 align="center">A passionate Frontend Developer from India, skilled in HTML, CSS, JavaScript, and frameworks like React. I focus on creating seamless, user-centric web experiences while constantly exploring new technologies to deliver high-quality, responsive solutions.Currently working on Next.js</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elmetador20&label=Profile%20views&color=0e75b6&style=flat" alt="elmetador20" /> </p>
 
