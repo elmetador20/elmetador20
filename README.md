@@ -1,7 +1,7 @@
 # Hi 👋, I'm Sharique Ahmad
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Frontend+Developer+from+India;React+%26+Next.js+Enthusiast;Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+stack+Developer+from+India;React+%26+Next.js+Enthusiast;Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
 <p align="center">
