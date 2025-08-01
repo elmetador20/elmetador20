@@ -62,22 +62,6 @@ A passionate **Full Stack Developer** from India, specializing in modern web tec
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=elmetador20&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" alt="Contribution Graph" />
 </div>
 
-## 💻 Most Used Languages (Detailed)
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=elmetador20&theme=tokyonight&hide_border=true&layout=compact" alt="Wakatime Stats" />
-</div>
-
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/elmetador20/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=elmetador20&repo=project1&theme=tokyonight&hide_border=true" alt="Project 1" />
-  </a>
-  <a href="https://github.com/elmetador20/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=elmetador20&repo=project2&theme=tokyonight&hide_border=true" alt="Project 2" />
-  </a>
-</div>
-
 ## 🤝 Connect with Me
 
 <div align="center">
