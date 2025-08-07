@@ -1,5 +1,4 @@
 # Hi 👋, I'm Sharique Ahmad
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Frontend+Developer+from+India;React+%26+Next.js+Enthusiast;Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
 </div>
@@ -46,7 +45,6 @@ A passionate **Full Stack Developer** from India, specializing in modern web tec
 </p>
 
 ## 📊 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elmetador20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmetador20&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
@@ -54,7 +52,7 @@ A passionate **Full Stack Developer** from India, specializing in modern web tec
 
 ## 🔥 GitHub Streak
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=elmetador20&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=elmetador20&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 📈 Contribution Graph
@@ -63,7 +61,6 @@ A passionate **Full Stack Developer** from India, specializing in modern web tec
 </div>
 
 ## 🤝 Connect with Me
-
 <div align="center">
   <a href="https://www.linkedin.com/in/sharique-ahmed-118861241/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -85,7 +82,6 @@ A passionate **Full Stack Developer** from India, specializing in modern web tec
 </div>
 
 ---
-
 <div align="center">
   <h3>⭐️ From <a href="https://github.com/elmetador20">Sharique Ahmad</a></h3>
   <p>💙 If you like my work, give some ⭐️ to my repos!</p>
