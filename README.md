@@ -55,14 +55,31 @@ A passionate **Full Stack Developer** from India, specializing in modern web tec
 
 ## 🔥 GitHub Streak
 
+<!-- Try these different streak services - uncomment one that works -->
+
+<!-- Option 1: DenverCoder1's streak stats -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elmetador20&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=elmetador20&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<!-- Alternative streak services in case the main one doesn't work -->
+<!-- Option 2: Alternative URL format -->
 <!-- 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=elmetador20&theme=tokyonight&hide_border=true" alt="GitHub Streak Alternative" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=elmetador20&theme=tokyonight&hide_border=true" alt="GitHub Streak Alt" />
+</div>
+-->
+
+<!-- Option 3: Different theme approach -->
+<!-- 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=elmetador20&theme=dark&hide_border=true&background=1A1B27&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD" alt="GitHub Streak Custom" />
+</div>
+-->
+
+<!-- Option 4: If all streak services fail, use additional stats instead -->
+<!--
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elmetador20&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Activity" alt="GitHub Activity Stats" height="180" />
 </div>
 -->
 
