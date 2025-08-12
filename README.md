@@ -19,6 +19,7 @@ A passionate **Full Stack Developer** from India, specializing in modern web tec
 - ⚡ Fun fact: **I'm a frontend developer by day, code challenge enthusiast by night! 😄**
 
 ## 🏆 GitHub Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=elmetador20&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </p>
@@ -46,22 +47,40 @@ A passionate **Full Stack Developer** from India, specializing in modern web tec
 </p>
 
 ## 📊 GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elmetador20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmetador20&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </div>
 
 ## 🔥 GitHub Streak
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=elmetador20&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elmetador20&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
+<!-- Alternative streak services in case the main one doesn't work -->
+<!-- 
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=elmetador20&theme=tokyonight&hide_border=true" alt="GitHub Streak Alternative" />
+</div>
+-->
+
 ## 📈 Contribution Graph
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=elmetador20&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" alt="Contribution Graph" />
 </div>
 
+<!-- Alternative contribution graph -->
+<!--
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=elmetador20&theme=tokyo-night&hide_border=true" alt="Contribution Graph Alternative" />
+</div>
+-->
+
 ## 🤝 Connect with Me
+
 <div align="center">
   <a href="https://www.linkedin.com/in/sharique-ahmed-118861241/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -78,11 +97,13 @@ A passionate **Full Stack Developer** from India, specializing in modern web tec
 </div>
 
 ## 💡 Random Dev Quote
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
 ---
+
 <div align="center">
   <h3>⭐️ From <a href="https://github.com/elmetador20">Sharique Ahmad</a></h3>
   <p>💙 If you like my work, give some ⭐️ to my repos!</p>
